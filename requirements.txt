@@ -1,0 +1,2 @@
+docling
+ibm-cos-sdk
